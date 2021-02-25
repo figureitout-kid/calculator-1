@@ -19,7 +19,7 @@ while True:
     num1 = tokens[1]
 
     if len(tokens) < 3:
-        num2 = "0"
+        num2 = 0
 
     else:
         num2 = tokens[2]
